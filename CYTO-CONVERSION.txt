@@ -1,0 +1,7 @@
+CYTO-CONVERSION
+
+> Nanocyte
+
+As your connection to your nanites grows, the swarm’s ability to break down and reassemble your body strengthens, gradually making you more machine than mortal. You receive a +1 circumstance bonus to saving throws against bleed, disease, poison, and sleep effects. In addition, you gain a 10% chance to treat a critical hit against you as a normal hit; it deals normal damage and doesn’t apply any critical hit effect. This percentage doesn’t stack with similar effects.
+
+At 10th level, the circumstance bonus to saving throws increases to +2, and the chance to treat a critical hit against you as a normal hit increases to 20%. At 16th level, the circumstance bonus to saving throws increases to +3, and the fortification percentage increases to 30%

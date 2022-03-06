@@ -1,0 +1,5 @@
+Weapon Specialization (Ex) (Nanocyte)
+
+> Nanocyte
+
+You gain the Weapon Specialization feat as a bonus feat for each weapon type this class grants you proficiency with, including any weapons for which you gained proficiency through a nanocyte knack

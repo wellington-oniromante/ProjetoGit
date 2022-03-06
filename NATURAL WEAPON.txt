@@ -1,0 +1,4 @@
+NATURAL WEAPON
+
+
+Vesk can attack with a special unarmed strike that deals lethal damage, doesn’t count as archaic, and threatens squares. Vesk gain a special version of the Weapon Specialization feat with this unarmed strike at 3rd level, allowing them to add 1–1/2 × their character level to their damage rolls for this unarmed strike (instead of just adding their character level, as usual).

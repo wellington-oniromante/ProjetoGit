@@ -1,0 +1,127 @@
+Nanite Surge (EX)- 1º level
+> Nanocyte
+
+In certain situations, you can use a nanite surge to push your nanites to perform extraordinary feats a number of times per day equal to half your nanocyte level plus your Constitution modifier; the exact benefits vary by circumstance and are explained in the abilities below. At 5th level, you can spend 1 Resolve Point to gain and immediately use an additional nanite surge. You can use this ability multiple times.
+
+Em certas situações, você pode usar uma onda de nanites para forçar seus nanites a realizar proezas extraordinárias um número de vezes por dia igual à metade do seu nível de nanócitos mais seu modificador de Constituição; os benefícios exatos variam de acordo com as circunstâncias e são explicados nas habilidades abaixo. No 5º nível, você pode gastar 1 Ponto de Determinação para ganhar e usar imediatamente uma onda de nanites adicional. Você pode usar essa habilidade várias vezes.
+
+
+> Nanocyte
+
+Your body hosts a multitude of nanites that you can direct to take one of three forms, called arrays. They can flood out of your body to form a cloud, combine to temporarily create items, or mobilize within you to amplify your physical abilities.
+
+
+Seu corpo hospeda uma infinidade de nanites que você pode direcionar para uma das três formas, chamadas matrizes. Eles podem inundar seu corpo para formar uma nuvem, combinar-se para criar itens temporariamente ou se mobilizar dentro de você para ampliar suas habilidades físicas.
+
+As a move action, you can direct your nanites to adopt an array. You can have only one array active at a time. Alternatively, you can use a nanite surge (above) to form or switch arrays as a swift action. The nanites maintain their array until you direct them into a different array, you fall unconscious, or you end your turn more than 10 feet from the array. If an array ends without being turned into a different array, the nanites disperse and return to your body at the beginning of your next turn and await further instructions. If you aren’t within 60 feet of the array or the array is physically blocked from reaching you, the nanites instead break down, and you can’t use your nanite array again until you spend 1 Resolve Point and take a full action to create a replacement array.
+
+Como uma ação de movimento, você pode direcionar seus nanites para adotar uma matriz. Você pode ter apenas um array ativo por vez. Alternativamente, você pode usar uma onda de nanite (acima) para formar ou alternar matrizes como uma ação rápida. Os nanites mantêm sua matriz até que você os direcione para uma matriz diferente, fique inconsciente ou termine seu turno a mais de 3 metros da matriz. Se uma matriz termina sem ser transformada em uma matriz diferente, os nanites se dispersam e retornam ao seu corpo no início de seu próximo turno e aguardam mais instruções. Se você não estiver a menos de 18 metros da matriz ou a matriz estiver fisicamente bloqueada para chegar até você, os nanites se quebram e você não pode usar sua matriz de nanites novamente até gastar 1 Ponto de Determinação e realizar uma ação completa para criar uma matriz de substituição.
+
+
+Your nanites are technological in nature and can be detected by spells (such as detect tech), but they aren’t otherwise subject to effects that affect technology.
+
+Seus nanites são de natureza tecnológica e podem ser detectados por feitiços (como detectar tecnologia), mas não estão sujeitos a efeitos que afetam a tecnologia.
+
+
+The three forms of nanite arrays—sheath, cloud, and gear—
+provide the following benefits only while the specific array is active
+
+
+As três formas de matrizes de nanite - bainha, nuvem e engrenagem -
+fornecer os seguintes benefícios apenas enquanto o array específico estiver ativo
+
+ Sheath Array (EX)
+The nanite array reinforces your body, granting you a +1 enhancement bonus to Reflex saving throws and a +1 insight bonus to checks with two of the following skills: Acrobatics, Athletics, Sleight of Hand, or Stealth, selected when you form this array. At 3rd level and every 4 levels thereafter, these bonuses increase by 1.
+
+
+Matriz de Bainha (EX)
+A matriz de nanite reforça seu corpo, concedendo a você um bônus de melhoria de +1 para testes de resistência de Reflexos e um bônus de percepção de +1 para testes com duas das seguintes perícias: Acrobacia, Atletismo, Prestidigitação ou Furtividade, selecionadas quando você forma esta matriz . No 3º nível e a cada 4 níveis subsequentes, esses bônus aumentam em 1.
+
+When you form a sheath array, you can use a nanite surge to gain a number of temporary Hit Points equal to your nanocyte level; you lose any such remaining temporary Hit Points when the sheath array ends.
+
+
+Quando você forma uma matriz de bainha, você pode usar uma onda de nanites para ganhar um número de Pontos de Vida temporários igual ao seu nível de nanócitos; você perde quaisquer Pontos de Vida temporários restantes quando a matriz de bainhas terminar.
+
+ Cloud Array (EX)
+You nanites spread out into a faintly visible cloud that fills a number of contiguous 5-foot squares. The maximum number of squares you can fill this way equals 1 plus your Constitution bonus, and at least one of those squares must be adjacent to you. The cloud is stationary once formed, though you can reconfigure its space as a move action; if you do so, at least one square of the cloud must remain unchanged. When you take a guarded step, you can move 10 feet as long as you begin and end this movement adjacent to or within your cloud array.
+
+
+Matriz de Nuvem (EX)
+Vocês nanites se espalham em uma nuvem fracamente visível que preenche vários quadrados contíguos de 1,5 metro. O número máximo de quadrados que você pode preencher dessa forma é igual a 1 mais seu bônus de Constituição, e pelo menos um desses quadrados deve estar adjacente a você. A nuvem é estacionária uma vez formada, embora você possa reconfigurar seu espaço como uma ação de movimento; se você fizer isso, pelo menos um quadrado da nuvem deve permanecer inalterado. Quando você dá um passo protegido, você pode se mover 3 metros desde que comece e termine este movimento adjacente ou dentro de sua matriz de nuvens.
+
+When you form a cloud array, you can use a nanite surge to increase the cloud’s density. This causes the array’s space to provide concealment, but it provides only a 10% miss chance. It doesn’t provide enough concealment to hide, and your attacks ignore any miss chance provided by your cloud. This concealment doesn’t stack with existing concealment.
+
+
+Ao formar uma matriz de nuvens, você pode usar uma onda de nanites para aumentar a densidade da nuvem. Isso faz com que o espaço da matriz forneça ocultação, mas fornece apenas 10% de chance de falha. Ele não fornece ocultação suficiente para se esconder, e seus ataques ignoram qualquer chance de erro fornecida por sua nuvem. Esta ocultação não se acumula com a ocultação existente.
+
+At 3rd level, whenever you form a cloud array, it can fill an additional 5-foot square, and any miss chance the cloud provides increases to 15%. At 7th level, it can fill an additional 5-foot square, and any miss chance the cloud provides increases to 20%. At 11th level, the cloud fills up to a number of contiguous  squares equal to 1 plus twice your Constitution modifier. At 15th level, when you use a nanite surge while forming the cloud array, any miss chance the cloud provides increases to 25% (though your attacks still ignore any miss chance). At 19th level, the cloud instead fills up to a number of contiguous squares equal to 1 plus four times your Constitution modifier.
+
+
+No 3º nível, sempre que você forma uma matriz de nuvens, ela pode preencher um quadrado adicional de 1,5 metro, e qualquer chance de falha que a nuvem fornece aumenta para 15%. No 7º nível, ela pode preencher um quadrado adicional de 1,5 metro, e qualquer chance de erro que a nuvem fornece aumenta para 20%. No 11º nível, a nuvem preenche um número de quadrados contíguos igual a 1 mais o dobro do seu modificador de Constituição. No 15º nível, quando você usa uma onda de nanites enquanto forma a matriz de nuvens, qualquer chance de falha que a nuvem fornece aumenta para 25% (embora seus ataques ainda ignorem qualquer chance de falha). No 19º nível, a nuvem preenche um número de quadrados contíguos igual a 1 mais quatro vezes seu modificador de Constituição.
+
+ Gear Array (EX) 1º level**
+Your nanites shape themselves into a single piece of equipment, such as a weapon, tool, or cybernetic augmentation. You can direct your nanites to create a limited selection of equipment, divided into major forms and minor forms. Major forms include weapons and cybernetic augmentations; minor forms include technological items (excluding armor and weapons) and personal items. At 1st level, you know how to create two major forms and three minor forms. You learn a new minor form at 2nd level and every 2 levels thereafter; you learn a new major form at 3rd level, 5th level, and every 4 levels thereafter. When you gain a nanocyte level, you can replace one of your major forms with a new major form and one of your minor forms with a new minor form.
+
+Matriz de Engrenagens (EX) 1º nível**
+Seus nanites se moldam em uma única peça de equipamento, como uma arma, ferramenta ou aprimoramento cibernético. Você pode direcionar seus nanites para criar uma seleção limitada de equipamentos, divididos em formas principais e formas secundárias. As principais formas incluem armas e aprimoramentos cibernéticos; formas menores incluem itens tecnológicos (excluindo armaduras e armas) e itens pessoais. No 1º nível, você sabe como criar duas formas principais e três formas secundárias. Você aprende uma nova forma menor no 2º nível e a cada 2 níveis subsequentes; você aprende uma nova forma principal no 3º nível, 5º nível e a cada 4 níveis subsequentes. Quando você ganha um nível de nanócitos, você pode substituir uma de suas formas principais por uma nova forma principal e uma de suas formas secundárias por uma nova forma secundária.
+
+To select a piece of equipment as one of your gear array’s major or minor forms, its level must be equal to or lower than your nanocyte level. Augmentations must be cybernetic, weapons and items must be technological items (not magic or hybrid), and you can’t select equipment that’s consumed on use (such as grenades) or whose bulk exceeds your Constitution modifier.
+
+
+Para selecionar uma peça de equipamento como uma das formas principais ou secundárias do seu conjunto de equipamentos, seu nível deve ser igual ou inferior ao seu nível de nanócitos. Aprimoramentos devem ser cibernéticos, armas e itens devem ser itens tecnológicos (não mágicos ou híbridos), e você não pode selecionar equipamentos que são consumidos em uso (como granadas) ou cujo volume excede seu modificador de Constituição.
+
+When creating a nanocyte character at higher than 1st level, for simplicity, you can choose major forms by choosing one form using your nanocyte level, the next form using your nanocyte level – 1, the next using your nanocyte level – 2, and so on. Any extra forms use a nanocyte level of 1. You can choose minor forms the same way.
+
+
+Ao criar um personagem de nanócitos acima do 1º nível, para simplificar, você pode escolher as formas principais escolhendo uma forma usando seu nível de nanócitos, a próxima forma usando seu nível de nanócitos – 1, a próxima usando seu nível de nanócitos – 2 e assim por diante . Quaisquer formas extras usam um nível de nanócitos de 1. Você pode escolher formas menores da mesma maneira.
+
+When you use your gear array to create a handheld nanite weapon, technological item, or personal item, you can automatically grab and begin wielding it if you have the requisite number of hands free. Otherwise, the item floats in your space until the end of your turn, at which point it drops in your space.
+
+
+Quando você usa seu conjunto de equipamentos para criar uma arma de nanite portátil, item tecnológico ou item pessoal, você pode automaticamente pegá-lo e começar a empunhá-lo se tiver o número necessário de mãos livres. Caso contrário, o item flutua no seu espaço até o final do seu turno, quando cai no seu espaço.
+
+When you use your gear array to create a cybernetic augmentation, it’s automatically installed in the appropriate body slot as long as that slot is empty; otherwise, it fails to manifest. If a given augmentation has a limited number of uses or frequency, that limit applies regardless of how many times you’ve created it with your gear array. Equipment that requires a battery or ammunition to function must be loaded to function. When you create such equipment, you can have it absorb and automatically load one appropriately-sized battery or set of suitable ammunition in your possession. Any item that uses a battery with fewer than 20 charges can instead use a standard battery.
+
+
+Quando você usa seu conjunto de equipamentos para criar um aumento cibernético, ele é instalado automaticamente no slot do corpo apropriado, desde que o slot esteja vazio; caso contrário, ele não se manifesta. Se um determinado aumento tiver um número limitado de usos ou frequência, esse limite se aplica independentemente de quantas vezes você o criou com seu conjunto de equipamentos. O equipamento que requer uma bateria ou munição para funcionar deve ser carregado para funcionar. Ao criar esse equipamento, você pode fazer com que ele absorva e carregue automaticamente uma bateria de tamanho apropriado ou um conjunto de munição adequada em sua posse. Qualquer item que use uma bateria com menos de 20 cargas pode usar uma bateria padrão.
+
+Nanite Facult 1º level**
+ Obliteration**
+Your nanites mercilessly tear apart your enemies, whether by guiding your strikes to inflict severe damage or exploding from your attacks to simultaneously hurt multiple foes.
+
+
+Nanite Facult 1º nível**
+  Obliteração**
+Seus nanites destroem seus inimigos sem piedade, seja guiando seus ataques para causar danos graves ou explodindo de seus ataques para ferir simultaneamente vários inimigos.
+
+Nanocyte Knack**
+> Nanocyte
+
+As you gain experience, you learn special ways to use your nanites called nanocyte knacks. You learn your first nanocyte knack at 2nd level, and you learn an additional knack every 2 levels thereafter. If a nanocyte knack allows a saving throw to resist its effects, the DC is equal to 10 + half your nanocyte level + your Constitution modifier. If it requires an enemy to attempt a skill check, the DC is equal to 10 + 1-1/2 × your nanocyte level + your Constitution modifier. The descriptions of nanocyte knacks appear on pages 13—16. You can’t learn the same knack more than once unless otherwise stated.
+
+
+Truque de Nanócitos**
+> Nanócitos
+
+À medida que você ganha experiência, você aprende maneiras especiais de usar seus nanites chamados truques de nanócitos. Você aprende sua primeira habilidade de nanócitos no 2º nível, e você aprende uma habilidade adicional a cada 2 níveis a partir de então. Se um truque de nanócitos permite que um teste de resistência resista a seus efeitos, a CD é igual a 10 + metade do seu nível de nanócitos + seu modificador de Constituição. Se for necessário que um inimigo tente um teste de perícia, a CD é igual a 10 + 1-1/2 × seu nível de nanócitos + seu modificador de Constituição. As descrições dos truques dos nanócitos aparecem nas páginas 13-16. Você não pode aprender a mesma habilidade mais de uma vez, salvo indicação em contrário.
+
+Your body houses a seemingly inexhaustible amount of nanites. When calculating your number of nanite surges per day and the maximum bulk of your nanite gear, treat your Constitution modifier as 2 higher.
+
+
+Seu corpo abriga uma quantidade aparentemente inesgotável de nanites. Ao calcular seu número de surtos de nanites por dia e o volume máximo de seu equipamento de nanites, trate seu modificador de Constituição como 2 a mais.
+
+Cyto-Conversion (EX)***
+> Nanocyte
+
+As your connection to your nanites grows, the swarm’s ability to break down and reassemble your body strengthens, gradually making you more machine than mortal. You receive a +1 circumstance bonus to saving throws against bleed, disease, poison, and sleep effects. In addition, you gain a 10% chance to treat a critical hit against you as a normal hit; it deals normal damage and doesn’t apply any critical hit effect. This percentage doesn’t stack with similar effects.
+
+
+Cito-conversão (EX)***
+> Nanócitos
+
+À medida que sua conexão com seus nanites cresce, a capacidade do enxame de quebrar e remontar seu corpo se fortalece, tornando-o gradualmente mais máquina do que mortal. Você recebe um bônus de circunstância de +1 nos testes de resistência contra efeitos de sangramento, doença, veneno e sono. Além disso, você ganha 10% de chance de tratar um acerto crítico contra você como um acerto normal; ele causa dano normal e não aplica nenhum efeito de acerto crítico. Essa porcentagem não se acumula com efeitos semelhantes.
+
+At 10th level, the circumstance bonus to saving throws increases to +2, and the chance to treat a critical hit against you as a normal hit increases to 20%. At 16th level, the circumstance bonus to saving throws increases to +3, and the fortification percentage increases to 30%.
+
+
+No 10º nível, o bônus de circunstância nos testes de resistência aumenta para +2, e a chance de tratar um acerto crítico contra você como um acerto normal aumenta para 20%. No 16º nível, o bônus de circunstância nos testes de resistência aumenta para +3, e a porcentagem de fortificação aumenta para 30%.
